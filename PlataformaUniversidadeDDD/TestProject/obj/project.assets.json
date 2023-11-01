@@ -8402,11 +8402,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Bueno\\source\\repos\\ApplicationDomainService\\PlataformaUniversidadeDDD\\TestProject\\TestProject.csproj",
+      "projectUniqueName": "C:\\Users\\Bueno\\source\\Nova pasta\\DDDImplementServices\\PlataformaUniversidadeDDD\\TestProject\\TestProject.csproj",
       "projectName": "TestProject",
-      "projectPath": "C:\\Users\\Bueno\\source\\repos\\ApplicationDomainService\\PlataformaUniversidadeDDD\\TestProject\\TestProject.csproj",
+      "projectPath": "C:\\Users\\Bueno\\source\\Nova pasta\\DDDImplementServices\\PlataformaUniversidadeDDD\\TestProject\\TestProject.csproj",
       "packagesPath": "C:\\Users\\Bueno\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Bueno\\Source\\Repos\\ApplicationDomainService\\PlataformaUniversidadeDDD\\TestProject\\obj\\",
+      "outputPath": "C:\\Users\\Bueno\\source\\Nova pasta\\DDDImplementServices\\PlataformaUniversidadeDDD\\TestProject\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Bueno\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -8423,8 +8423,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\Bueno\\source\\repos\\ApplicationDomainService\\PlataformaUniversidadeDDD\\DDD.Domain.Service\\DDD.Domain.Service.csproj": {
-              "projectPath": "C:\\Users\\Bueno\\source\\repos\\ApplicationDomainService\\PlataformaUniversidadeDDD\\DDD.Domain.Service\\DDD.Domain.Service.csproj"
+            "C:\\Users\\Bueno\\source\\Nova pasta\\DDDImplementServices\\PlataformaUniversidadeDDD\\DDD.Domain.Service\\DDD.Domain.Service.csproj": {
+              "projectPath": "C:\\Users\\Bueno\\source\\Nova pasta\\DDDImplementServices\\PlataformaUniversidadeDDD\\DDD.Domain.Service\\DDD.Domain.Service.csproj"
             }
           }
         }

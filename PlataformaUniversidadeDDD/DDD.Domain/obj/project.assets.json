@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Bueno\\Source\\Repos\\ApplicationDomainService\\PlataformaUniversidadeDDD\\DDD.Domain\\DDD.Domain.csproj",
+      "projectUniqueName": "C:\\Users\\Bueno\\source\\Nova pasta\\DDDImplementServices\\PlataformaUniversidadeDDD\\DDD.Domain\\DDD.Domain.csproj",
       "projectName": "DDD.Domain",
-      "projectPath": "C:\\Users\\Bueno\\Source\\Repos\\ApplicationDomainService\\PlataformaUniversidadeDDD\\DDD.Domain\\DDD.Domain.csproj",
+      "projectPath": "C:\\Users\\Bueno\\source\\Nova pasta\\DDDImplementServices\\PlataformaUniversidadeDDD\\DDD.Domain\\DDD.Domain.csproj",
       "packagesPath": "C:\\Users\\Bueno\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Bueno\\Source\\Repos\\ApplicationDomainService\\PlataformaUniversidadeDDD\\DDD.Domain\\obj\\",
+      "outputPath": "C:\\Users\\Bueno\\source\\Nova pasta\\DDDImplementServices\\PlataformaUniversidadeDDD\\DDD.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Bueno\\AppData\\Roaming\\NuGet\\NuGet.Config",

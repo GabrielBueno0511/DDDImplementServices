@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "mZfjHiKjXSFq7MYZGjU/N+JPfaNVo0DoWeaOlHRMzurP2HHwVUT4tUwd+4bgxXDM4M0S4Y3S02/7m2hO1Hz41Q==",
+  "dgSpecHash": "9Upvs+Dx2DkLndk9eO3IoEGqdwT0xg/7Qfx2uy30rpgR1s0G4xGz9kCLVeUXApy1tUO0UPjRal1SrE2Ba13k1w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Bueno\\source\\repos\\ApplicationDomainService\\PlataformaUniversidadeDDD\\TestProject\\TestProject.csproj",
+  "projectFilePath": "C:\\Users\\Bueno\\source\\Nova pasta\\DDDImplementServices\\PlataformaUniversidadeDDD\\TestProject\\TestProject.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Bueno\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\Bueno\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",

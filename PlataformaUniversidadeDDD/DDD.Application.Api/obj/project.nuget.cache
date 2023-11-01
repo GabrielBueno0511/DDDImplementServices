@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "tP0RLZKSeEhoBq+r92yxOcGHDsvxiCir11QyITo98qcwMxndESFEYJ1teaCfp4TkTiyRKHg8KO/uN/THHTuKGw==",
+  "dgSpecHash": "yDB0W6tYD6XGZocEWP0WXAVbQ+V2+H2X2LkwLRYU7UqHAKp805N+QVx7h6VwyzfbHs5CVcM0xkc9KCNxKeqexw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Bueno\\source\\repos\\ApplicationDomainService\\PlataformaUniversidadeDDD\\DDD.Application.Api\\DDD.Application.Api.csproj",
+  "projectFilePath": "C:\\Users\\Bueno\\source\\Nova pasta\\DDDImplementServices\\PlataformaUniversidadeDDD\\DDD.Application.Api\\DDD.Application.Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Bueno\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\Bueno\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",

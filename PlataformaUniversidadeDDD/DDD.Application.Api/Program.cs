@@ -4,7 +4,6 @@ using DDD.Infra.SQLServer;
 using DDD.Infra.SQLServer.Interfaces;
 using DDD.Infra.SQLServer.Repositories;
 using System.Text.Json.Serialization;
-using static DDD.Application.Service.ApllicationServiceProjeto;
 
 var builder = WebApplication.CreateBuilder(args);
 

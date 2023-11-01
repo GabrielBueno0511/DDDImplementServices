@@ -24,6 +24,25 @@ namespace DDD.Infra.SQLServer.Migrations
 
             modelBuilder.HasSequence("UserSequence");
 
+            modelBuilder.Entity("DDD.Domain.PicContext.PosGraduacao", b =>
+                {
+                    b.Property<int>("posGraduacaoId")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int");
+
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("posGraduacaoId"));
+
+                    b.Property<int>("ProjetoId")
+                        .HasColumnType("int");
+
+                    b.Property<int>("pesquisadorID")
+                        .HasColumnType("int");
+
+                    b.HasKey("posGraduacaoId");
+
+                    b.ToTable("pos_graducacao", (string)null);
+                });
+
             modelBuilder.Entity("DDD.Domain.PicContext.Projeto", b =>
                 {
                     b.Property<int>("ProjetoId")
@@ -175,9 +194,8 @@ namespace DDD.Infra.SQLServer.Migrations
                 {
                     b.HasBaseType("DDD.Domain.UserManagementContext.User");
 
-                    b.Property<string>("Titulacao")
-                        .IsRequired()
-                        .HasColumnType("nvarchar(max)");
+                    b.Property<int>("Titulacao")
+                        .HasColumnType("int");
 
                     b.ToTable("Pesquisador", (string)null);
                 });

@@ -17,3 +17,22 @@ C:\Users\Bueno\Source\Repos\ApplicationDomainService\PlataformaUniversidadeDDD\D
 C:\Users\Bueno\Source\Repos\ApplicationDomainService\PlataformaUniversidadeDDD\DDD.Application.Service\obj\Debug\net6.0\refint\DDD.Application.Service.dll
 C:\Users\Bueno\Source\Repos\ApplicationDomainService\PlataformaUniversidadeDDD\DDD.Application.Service\obj\Debug\net6.0\DDD.Application.Service.pdb
 C:\Users\Bueno\Source\Repos\ApplicationDomainService\PlataformaUniversidadeDDD\DDD.Application.Service\obj\Debug\net6.0\ref\DDD.Application.Service.dll
+C:\Users\Bueno\source\Nova pasta\DDDImplementServices\PlataformaUniversidadeDDD\DDD.Application.Service\bin\Debug\net6.0\DDD.Application.Service.deps.json
+C:\Users\Bueno\source\Nova pasta\DDDImplementServices\PlataformaUniversidadeDDD\DDD.Application.Service\bin\Debug\net6.0\DDD.Application.Service.dll
+C:\Users\Bueno\source\Nova pasta\DDDImplementServices\PlataformaUniversidadeDDD\DDD.Application.Service\bin\Debug\net6.0\DDD.Application.Service.pdb
+C:\Users\Bueno\source\Nova pasta\DDDImplementServices\PlataformaUniversidadeDDD\DDD.Application.Service\bin\Debug\net6.0\DDD.Domain.dll
+C:\Users\Bueno\source\Nova pasta\DDDImplementServices\PlataformaUniversidadeDDD\DDD.Application.Service\bin\Debug\net6.0\DDD.Domain.Service.dll
+C:\Users\Bueno\source\Nova pasta\DDDImplementServices\PlataformaUniversidadeDDD\DDD.Application.Service\bin\Debug\net6.0\DDD.Infra.SQLServer.dll
+C:\Users\Bueno\source\Nova pasta\DDDImplementServices\PlataformaUniversidadeDDD\DDD.Application.Service\bin\Debug\net6.0\DDD.Domain.Service.pdb
+C:\Users\Bueno\source\Nova pasta\DDDImplementServices\PlataformaUniversidadeDDD\DDD.Application.Service\bin\Debug\net6.0\DDD.Domain.pdb
+C:\Users\Bueno\source\Nova pasta\DDDImplementServices\PlataformaUniversidadeDDD\DDD.Application.Service\bin\Debug\net6.0\DDD.Infra.SQLServer.pdb
+C:\Users\Bueno\source\Nova pasta\DDDImplementServices\PlataformaUniversidadeDDD\DDD.Application.Service\obj\Debug\net6.0\DDD.Application.Service.csproj.AssemblyReference.cache
+C:\Users\Bueno\source\Nova pasta\DDDImplementServices\PlataformaUniversidadeDDD\DDD.Application.Service\obj\Debug\net6.0\DDD.Application.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bueno\source\Nova pasta\DDDImplementServices\PlataformaUniversidadeDDD\DDD.Application.Service\obj\Debug\net6.0\DDD.Application.Service.AssemblyInfoInputs.cache
+C:\Users\Bueno\source\Nova pasta\DDDImplementServices\PlataformaUniversidadeDDD\DDD.Application.Service\obj\Debug\net6.0\DDD.Application.Service.AssemblyInfo.cs
+C:\Users\Bueno\source\Nova pasta\DDDImplementServices\PlataformaUniversidadeDDD\DDD.Application.Service\obj\Debug\net6.0\DDD.Application.Service.csproj.CoreCompileInputs.cache
+C:\Users\Bueno\source\Nova pasta\DDDImplementServices\PlataformaUniversidadeDDD\DDD.Application.Service\obj\Debug\net6.0\DDD.Application.Service.csproj.CopyComplete
+C:\Users\Bueno\source\Nova pasta\DDDImplementServices\PlataformaUniversidadeDDD\DDD.Application.Service\obj\Debug\net6.0\DDD.Application.Service.dll
+C:\Users\Bueno\source\Nova pasta\DDDImplementServices\PlataformaUniversidadeDDD\DDD.Application.Service\obj\Debug\net6.0\refint\DDD.Application.Service.dll
+C:\Users\Bueno\source\Nova pasta\DDDImplementServices\PlataformaUniversidadeDDD\DDD.Application.Service\obj\Debug\net6.0\DDD.Application.Service.pdb
+C:\Users\Bueno\source\Nova pasta\DDDImplementServices\PlataformaUniversidadeDDD\DDD.Application.Service\obj\Debug\net6.0\ref\DDD.Application.Service.dll
